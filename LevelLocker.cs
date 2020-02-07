@@ -88,8 +88,8 @@ public class LevelLocker : MonoBehaviour
 		/* 
 		 *	globalSettings.IsStartingLevel can be set through the GlobalData GameObject's inspector in the "menu" scene.
 		 *	It is used during level testing to skip menus and go straight to a level on pressing play.
-		 *	LevelLocker sets required level values before this if-statement is triggered only if the 
-		 *	IsStartingLevel bool is set to true through the Unity inspector.
+		 *	LevelLocker sets the required values for the level before this "if-statement" is triggered.
+		 *	That is, only if the IsStartingLevel bool is set to true through the Unity inspector.
 		 */
 		if (globalData.GlobalSettings.IsStartingLevel)
 		{
