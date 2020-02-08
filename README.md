@@ -1,7 +1,9 @@
 <h1 align="center">Switchy Shapes</h1>
 
 <p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.TeraKeySoftware.ShapeSwitcher" target="_blank">
 <img width="180" height="80" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="">
+</a>
 </p>
 
 ### Summary:
