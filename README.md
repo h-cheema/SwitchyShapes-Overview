@@ -30,7 +30,7 @@ It has been a great learning experience and I'm quite happy with the final produ
 <br>
 
 ### Screenshots:
-* ![Screenshot](/images/combinedScreenshots.jpg)
+    ![Screenshot](/images/combinedScreenshots.jpg)
 
 <br>
 
