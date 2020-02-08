@@ -31,4 +31,3 @@
 
 ## Screenshots
 * ![Screenshot](/images/combinedScreenshots.jpg)
-
