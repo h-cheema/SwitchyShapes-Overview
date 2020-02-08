@@ -1,13 +1,8 @@
+<h1 align="center">Switchy Shapes</h1>
 <hr>
-<h3 align="center">Switchy Shapes</h3>
-<hr>
-
-<br>
 
 * <a href="https://play.google.com/store/apps/details?id=com.TeraKeySoftware.ShapeSwitcher" target="_blank">Google play store</a>
 * <a href="https://www.harjindercheema.com" target="_blank">My Website</a>
-
-<br>
 
 ## Summary:
 * Switchy Shapes is a 2D mobile game I built from scratch using the Unity Game Engine and C# scripting. It has been a great learning experience and I'm quite happy with the final product. All game programming, UI, UX, sound design, graphics, store management (and so on...) was done by yours truly.
