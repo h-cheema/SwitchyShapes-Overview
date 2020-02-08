@@ -1,14 +1,14 @@
-[Google PlayStore Listing](https://play.google.com/store/apps/details?id=com.TeraKeySoftware.ShapeSwitcher)
+* [Google play store link](https://play.google.com/store/apps/details?id=com.TeraKeySoftware.ShapeSwitcher)
+* [My website](https://www.harjindercheema.com)
 
-[harjindercheema.com](https://www.harjindercheema.com)
+<hr>
 
-<h1>Project: Switchy Shapes</h1>
+<h1 align="center">Project: Switchy Shapes</h1>
+
+<hr>
 
 ### Summary:
-<br>
 Switchy Shapes is a 2D mobile game I built from scratch using the Unity Game Engine and C# scripting. It has been a great learning experience and I'm quite happy with the final product. All game programming, UI, UX, sound design, graphics, store management (and so on...) was done by yours truly.
-
-<br>
 
 ### Technical Details:.
 * Close to 4000 lines of C# code across 20 scripts
@@ -16,8 +16,6 @@ Switchy Shapes is a 2D mobile game I built from scratch using the Unity Game Eng
 * User-interface scales to any display
 * "Player" system to securely save/load player data
 * Game updates are easily implemented and retain player data
-
-<br>
 
 ### Game Features:
 * Available on Android (coming to iOS soon)
