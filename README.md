@@ -50,6 +50,8 @@ Switchy Shapes is a 2D mobile game built from scratch using the Unity Game Engin
 
 ### Development Process Overview
 * Before I started planning, I made sure that this project was realistic and that I was capable of completing it. Once I confirmed that I moved on to turning my idea into reality.
+
+* (Complete dev process coming soon.)
 	
 ### Web Links:
 * <a href="https://play.google.com/store/apps/details?id=com.TeraKeySoftware.ShapeSwitcher" target="_blank">Google play store</a>
