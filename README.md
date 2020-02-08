@@ -1,4 +1,6 @@
 # Product: Switchy Shapes
-### Google PlayStore Listing: https://play.google.com/store/apps/details?id=com.TeraKeySoftware.ShapeSwitcher
+### Google PlayStore Listing:
+https://play.google.com/store/apps/details?id=com.TeraKeySoftware.ShapeSwitcher
 
-### My website: https://www.harjindercheema.com
+### My website:
+https://www.harjindercheema.com
