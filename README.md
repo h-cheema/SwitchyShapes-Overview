@@ -2,7 +2,7 @@
 * <a href="https://www.harjindercheema.com" target="_blank">My Website</a>
 
 <hr>
-### Switchy Shapes
+<h3>Switchy Shapes</h3>
 </hr>
 
 ### Summary:
