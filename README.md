@@ -26,7 +26,7 @@ Switchy Shapes is a 2D mobile game built from scratch using the Unity Game Engin
 	* Takes information from LevelPreprocessor.cs and spawns flowing shapes before the game starts.
 <br>
 
-### Technical Details:.
+### Technical Details:
 * 2D mobile game
 * Built from scratch using the Unity Game Engine and C# scripting
 * Close to 4000 lines of C# code across 20 scripts
