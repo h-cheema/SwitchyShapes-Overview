@@ -2,7 +2,7 @@
 
 [Google PlayStore Listing](https://play.google.com/store/apps/details?id=com.TeraKeySoftware.ShapeSwitcher)
 
-My website: [harjindercheema.com](https://www.harjindercheema.com)
+[harjindercheema.com](https://www.harjindercheema.com)
 
 <br>
 
