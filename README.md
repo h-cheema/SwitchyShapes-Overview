@@ -14,16 +14,16 @@ It has been a great learning experience and I'm quite happy with the final produ
 
 ### Code Samples:
 
-* I would share the whole unity project, but it could pose security risks since the game in on the google playstore.
+* All code commenting and documentation is from the project's original files. I would have never been able to finish this project if I never documented my code.
 
-* _LevelLocker.cs_
+* _<a href="https://github.com/h-cheema/SwitchyShapes-Overview/blob/master/LevelLocker.cs" target="_blank">LevelLocker.cs</a>_
 	* Uses the player's current level to decide which levels are available to play.
 
-* _LevelPreprocessor.cs_ 
+* _<a href="https://github.com/h-cheema/SwitchyShapes-Overview/blob/master/LevelPreprocessor.cs" target="_blank">LevelPreprocessor.cs</a>_
 	* Gathers the needed date to set up a level correctly. This includes things like the configuration of the shape columns, height gap between shapes, and the flow speed of the shapes.
 
-* _LevelSpawner.cs_
-	* Takes information from LevelPreprocessor.cs and spawns flowing shapes before the game starts, sets their 
+* _<a href="https://github.com/h-cheema/SwitchyShapes-Overview/blob/master/LevelSpawner.cs" target="_blank">LevelSpawner.cs</a>_
+	* Takes information from LevelPreprocessor.cs and spawns flowing shapes before the game starts.
 <br>
 
 ### Technical Details:.
