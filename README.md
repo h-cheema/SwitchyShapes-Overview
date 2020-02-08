@@ -48,16 +48,9 @@ It has been a great learning experience and I'm quite happy with the final produ
 
 <br>
 
-
-### Development Overview
-* Before I started planning, I made sure that this was a project that I was capable of completing. Once I decided that, I moved on to turning the idea into reality.
-* I started this project by planning out the core gameplay design. Things like goals of the game, the user's experience and the user interface.
-* Next I planned out a modular parts of the game from a top down approach. First, I started with a global script which would store data between scene changes. I used the method "DontDestroyOnLoad(this);" on the script, which would keep it's instance between scenes. Any other scripts I needed could be added to that GameObject, such as the scripts for advertisements, menus and audio. 
-* After the global object was established, I focused on the core game event system which would handle physics and collisions for the flowing shapes, the catcher buttons' onClick listeners, the menu's needed for screens like pause, win and game over and
-
-I had to establish things like flow object physics, hitbox colliders for the shapes and catchers, 
-
-
+### Development Process Overview
+* Before I started planning, I made sure that this project was realistic and that I was capable of completing it. Once I confirmed that I moved on to turning my idea into reality.
+	
 ### Web Links:
 * <a href="https://play.google.com/store/apps/details?id=com.TeraKeySoftware.ShapeSwitcher" target="_blank">Google play store</a>
 * <a href="https://www.harjindercheema.com" target="_blank">My Website</a>
