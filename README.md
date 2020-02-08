@@ -12,6 +12,20 @@ It has been a great learning experience and I'm quite happy with the final produ
 
 <br>
 
+### Code Samples:
+
+*I would share the whole unity project, but it could pose security risks since the game in on the google playstore.
+
+* *LevelLocker.cs
+	*Uses the player's current level to decide which levels are available to play.
+* *LevelPreprocessor.cs
+
+	* Gathers the needed date to set up a level correctly. This includes things like the configuration of the shape columns, height gap between shapes, and the flow speed of the shapes.
+	
+* *LevelSpawner.cs
+	* Takes information from LevelPreprocessor.cs and spawns flowing shapes before the game starts, sets their 
+<br>
+
 ### Technical Details:.
 * 2D mobile game
 * Built from scratch using the Unity Game Engine and C# scripting
@@ -30,9 +44,19 @@ It has been a great learning experience and I'm quite happy with the final produ
 <br>
 
 ### Screenshots:
-    ![Screenshot](/images/combinedScreenshots.jpg)
+* ![Screenshot](/images/combinedScreenshots.jpg)</li>
 
 <br>
+
+
+### Development Overview
+* Before I started planning, I made sure that this was a project that I was capable of completing. Once I decided that, I moved on to turning the idea into reality.
+* I started this project by planning out the core gameplay design. Things like goals of the game, the user's experience and the user interface.
+* Next I planned out a modular parts of the game from a top down approach. First, I started with a global script which would store data between scene changes. I used the method "DontDestroyOnLoad(this);" on the script, which would keep it's instance between scenes. Any other scripts I needed could be added to that GameObject, such as the scripts for advertisements, menus and audio. 
+* After the global object was established, I focused on the core game event system which would handle physics and collisions for the flowing shapes, the catcher buttons' onClick listeners, the menu's needed for screens like pause, win and game over and
+
+I had to establish things like flow object physics, hitbox colliders for the shapes and catchers, 
+
 
 ### Web Links:
 * <a href="https://play.google.com/store/apps/details?id=com.TeraKeySoftware.ShapeSwitcher" target="_blank">Google play store</a>
