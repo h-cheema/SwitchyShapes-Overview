@@ -236,7 +236,7 @@ public class LevelLocker : MonoBehaviour
 					// Set transforms:
 					tempLevelButton.transform.SetParent(levels_menu.transform);
 					tempLevelButton.GetComponent<Button>().transform.Rotate(0, 0, 45, Space.Self);
-                    tempLevelButton.transform.localScale = new Vector3(1f, 1f, 1f);
+                    			tempLevelButton.transform.localScale = new Vector3(1f, 1f, 1f);
 					tempLevelButton.transform.localPosition = new Vector3(x_positions[j], y_positions[i], 1);
 
 					// Add listener:
@@ -297,7 +297,7 @@ public class LevelLocker : MonoBehaviour
 	public void NextPage()
 	{
 		ChangePage(1);
-    }
+    	}
 	public void PreviousPage()
 	{
 		if (currentPage <= 0)
