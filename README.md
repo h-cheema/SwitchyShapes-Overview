@@ -15,11 +15,11 @@ It has been a great learning experience and I'm quite happy with the final produ
 ### Code Samples:
 
 * I would share the whole unity project, but it could pose security risks since the game in on the google playstore.
-* *LevelLocker.cs
+* _LevelLocker.cs_
 	*Uses the player's current level to decide which levels are available to play.
-* *LevelPreprocessor.cs
+* _LevelPreprocessor.cs_
 	* Gathers the needed date to set up a level correctly. This includes things like the configuration of the shape columns, height gap between shapes, and the flow speed of the shapes.
-* *LevelSpawner.cs
+* _LevelSpawner.cs_
 	* Takes information from LevelPreprocessor.cs and spawns flowing shapes before the game starts, sets their 
 <br>
 
