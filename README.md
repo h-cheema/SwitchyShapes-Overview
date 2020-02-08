@@ -9,12 +9,12 @@
 
 <br>
 
-### Summary:
+## Summary:
 * Switchy Shapes is a 2D mobile game I built from scratch using the Unity Game Engine and C# scripting. It has been a great learning experience and I'm quite happy with the final product. All game programming, UI, UX, sound design, graphics, store management (and so on...) was done by yours truly.
 
 <br>
 
-### Technical Details:.
+## Technical Details:.
 * Close to 4000 lines of C# code across 20 scripts
 * Uses Unity Services like Analytics and Monetization
 * User-interface scales to any display
@@ -23,12 +23,12 @@
 
 <br>
 
-### Game Features:
+## Game Features:
 * Available on Android (coming to iOS soon)
 * 90 carefully created levels
 
 <br>
 
-### Screenshots
+## Screenshots
 * ![Screenshot](/images/combinedScreenshots.jpg)
 
