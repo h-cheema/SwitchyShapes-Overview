@@ -8,7 +8,7 @@
 </p>
 
 ### Summary:
-It has been a great learning experience and I'm quite happy with the final product. All game programming, UI, UX, sound design, graphics, store management (and so on...) was done by yours truly.
+Switchy Shapes is a 2D mobile game built from scratch using the Unity Game Engine and C# scripting. It has been a great learning experience and I'm quite happy with the final product. All game programming, UI, UX, sound design, graphics, store management (and so on...) was done by myself.
 
 <br>
 
