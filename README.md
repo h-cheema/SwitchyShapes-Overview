@@ -1,8 +1,8 @@
-# Project: Switchy Shapes
-
 [Google PlayStore Listing](https://play.google.com/store/apps/details?id=com.TeraKeySoftware.ShapeSwitcher)
 
 [harjindercheema.com](https://www.harjindercheema.com)
+
+# Project: Switchy Shapes
 
 <br>
 
