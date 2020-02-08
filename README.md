@@ -1,11 +1,12 @@
-* <a href="https://play.google.com/store/apps/details?id=com.TeraKeySoftware.ShapeSwitcher" target="_blank">Google play store</a>
-* <a href="https://www.harjindercheema.com" target="_blank">My Website</a>
-
-<br>
-
 <hr>
 <h3 align="center">Switchy Shapes</h3>
 <hr>
+
+<br>
+
+* <a href="https://play.google.com/store/apps/details?id=com.TeraKeySoftware.ShapeSwitcher" target="_blank">Google play store</a>
+* <a href="https://www.harjindercheema.com" target="_blank">My Website</a>
+
 <br>
 
 ### Summary:
@@ -28,7 +29,6 @@
 
 <br>
 
-
 ### Screenshots
-![Screenshot](/images/combinedScreenshots.jpg)
+* ![Screenshot](/images/combinedScreenshots.jpg)
 
