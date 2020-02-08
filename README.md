@@ -1,6 +1,6 @@
 # Switchy Shapes
-# Playstore link
+### Google PlayStore Listing: 
 
 <p align="center">
-  <img src="https://p.bigstockphoto.com/GeFvQkBbSLaMdpKXF1Zv_bigstock-Aerial-View-Of-Blue-Lakes-And--227291596.jpg"/>
+  <img src="./images/SwitchyShapes_github_screenshot_levelsMenu.png"/>
 </p>
