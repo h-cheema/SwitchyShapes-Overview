@@ -1,9 +1,8 @@
 # Project: Switchy Shapes
-Google PlayStore Listing:
-https://play.google.com/store/apps/details?id=com.TeraKeySoftware.ShapeSwitcher
 
-My website:
-https://www.harjindercheema.com
+[Google PlayStore Listing](https://play.google.com/store/apps/details?id=com.TeraKeySoftware.ShapeSwitcher)
+
+My website: [harjindercheema.com](https://www.harjindercheema.com)
 
 <br>
 
@@ -16,7 +15,7 @@ Technical Details:
 
 <br>
 
-
 Game Features:
 * Available on Android (coming to iOS soon)
 * 90 carefully created levels
+
