@@ -1,7 +1,8 @@
 <h1 align="center">Switchy Shapes</h1>
 
 <img align="left" width="180" height="80" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="">
-<br>
+
+<br><br>
 
 ## Summary:
 * Switchy Shapes is a 2D mobile game I built from scratch using the Unity Game Engine and C# scripting. It has been a great learning experience and I'm quite happy with the final product. All game programming, UI, UX, sound design, graphics, store management (and so on...) was done by yours truly.
