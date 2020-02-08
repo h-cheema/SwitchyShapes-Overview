@@ -1,6 +1,11 @@
 <h1 align="center">Switchy Shapes</h1>
 
-<img align="left" width="180" height="80" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="">
+
+
+<p align="center">
+ <img width="180" height="80" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="">
+</p>
+
 
 <br><br>
 
