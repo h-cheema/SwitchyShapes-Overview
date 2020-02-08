@@ -1,5 +1,4 @@
 <h1 align="center">Switchy Shapes</h1>
-<hr>
 
 * <a href="https://play.google.com/store/apps/details?id=com.TeraKeySoftware.ShapeSwitcher" target="_blank">Google play store</a>
 * <a href="https://www.harjindercheema.com" target="_blank">My Website</a>
