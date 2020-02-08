@@ -14,7 +14,7 @@ It has been a great learning experience and I'm quite happy with the final produ
 
 ### Code Samples:
 
-*I would share the whole unity project, but it could pose security risks since the game in on the google playstore.
+* I would share the whole unity project, but it could pose security risks since the game in on the google playstore.
 
 * *LevelLocker.cs
 	*Uses the player's current level to decide which levels are available to play.
