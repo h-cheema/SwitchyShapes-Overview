@@ -32,7 +32,7 @@ Switchy Shapes is a 2D mobile game built from scratch using the Unity Game Engin
 * Close to 4000 lines of C# code across 20 scripts
 * Uses Unity Services like Analytics and Monetization
 * User-interface scales to any display
-* "Player" system to securely save/load player data
+* "Player" system securely saves/loads player data
 * Game updates are easily implemented and retain player data
 
 <br>
