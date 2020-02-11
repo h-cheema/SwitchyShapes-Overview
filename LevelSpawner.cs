@@ -38,11 +38,11 @@ public class LevelSpawner.cs : MonoBehaviour
 	Transform trSpawner4;
 
 	// Unused.
-	public Image bomb_button_graphic;
-	public Bomb_Handler bomb_holder;
-	UnityEngine.Events.UnityAction bomb_holder_action;
-	GameObject shapes_runtime_parent;
-	Transform shapes_runtime_parent_transform;
+	//public Image bomb_button_graphic;
+	//public Bomb_Handler bomb_holder;
+	//UnityEngine.Events.UnityAction bomb_holder_action;
+	//GameObject shapes_runtime_parent;
+	//Transform shapes_runtime_parent_transform;
 
 	void Start()
 	{
