@@ -57,7 +57,7 @@ public class LevelLocker : MonoBehaviour
 		currentPage = 0;
 		levelsPerPage = globalData.LevelsPerPage;
 		firstLevelButton = currentPage * levelsPerPage;
-		unlockedButtonColor = globalData.LevelLocker_green; // Unlocked level buttons color
+		unlockedButtonColor = globalData.LevelLocker_green; // Unlocked level buttons color.
 
 		// Set the number of pages based on number of levels.
 		if (numberOfLevels % levelsPerPage == 0)
@@ -73,7 +73,7 @@ public class LevelLocker : MonoBehaviour
 		// Get the player's number of completed levels.
 		playerLevels = SaveLoad.LoadPlayer().level;
 
-		// Slider setup
+		// Slider setup.
 		levelSpeedSlider = GameObject.FindGameObjectWithTag("slider_levelSpeed").GetComponent<Slider>();
 		levelSpeedText = GameObject.FindGameObjectWithTag("text_levelSpeed").GetComponent<Text>();
 		ChangeLevelSpeed();
@@ -81,7 +81,7 @@ public class LevelLocker : MonoBehaviour
 		// Stages panel text
 		txtPage = GameObject.Find("panel_Stages_StageProgress").GetComponent<Text>();
 
-		// 
+		// Initialize first flashing button.
 		currentLevelButton = null;
 		ChangePage(0);
 
@@ -109,7 +109,7 @@ public class LevelLocker : MonoBehaviour
 	}
 
 	/// <summary>
-	/// Locks levels based on how many levels the player has completed. (Player data saved in Unity.PersistentData)
+	/// Locks levels based on how many levels the player has completed. (Player data saved in Unity.PersistentData).
 	/// </summary>
 	public void LockLevels()
 	{
@@ -135,8 +135,8 @@ public class LevelLocker : MonoBehaviour
 
 		// Set the current level's button color.
 		int currentLevel = SaveLoad.LoadPlayer().level;
-        if (GameObject.Find(currentLevel.ToString()) != null)
-        {
+		if (GameObject.Find(currentLevel.ToString()) != null)
+		{
 			GameObject.Find(currentLevel.ToString()).GetComponent<Image>().color = new Color32(255, 170, 0, 255);
 			currentLevelButton = GameObject.Find(currentLevel.ToString());
 			//Debug.Log("currentLevelButton set");
@@ -174,7 +174,7 @@ public class LevelLocker : MonoBehaviour
 	/// <summary>
 	/// Called by ChangeLevelSpeed() in switch cases to set the values needed for an interval of the slider.
 	/// </summary>
-	/// <param name="text">Level speed text (Easy, Medium, etc...)</param>
+	/// <param name="text">Level speed text (Easy, Medium, etc...).</param>
 	/// <param name="hightGap">Height gap between shapes when they are spawned.</param>
 	/// <param name="speed">Speed of the flowing shapes.</param>
 	public void ChangeLevelSpeed_Values(string text, float hightGap, float speed)
@@ -213,7 +213,7 @@ public class LevelLocker : MonoBehaviour
 
 		GameObject levels_menu = GameObject.FindGameObjectWithTag("levels_menu");
 
-		// Instantiate default level buttons row by row.
+		// Instantiate default (unmodified) level buttons row by row.
 		for (int i = 0; i < 3; i++) // Rows
 		{
 
@@ -302,8 +302,8 @@ public class LevelLocker : MonoBehaviour
 	{
 		if (currentPage <= 0)
 		{
-            currentPage = numberOfLevels / levelsPerPage;
-            ChangePage(currentPage);
+           		currentPage = numberOfLevels / levelsPerPage;
+           		ChangePage(currentPage);
 		}
 		else
 		{
